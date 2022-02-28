@@ -1,0 +1,16 @@
+id: PEFF6FF9D
+initial_creation_type: input
+source_metadata:
+  title: Guru Drakpo Series
+  language: bo
+  description: 'Texts related to Guru Drakpo (gu ru drag po), the wrathful manifestation
+    of Guru Padmasambhava, in all his various forms:'
+  volume:
+    28be3826fcfc47349983eccff17ed688:
+      title: Wrathful Guru Mantra Visualization
+      parent: Mantra Visualization
+    02630824c8e64c45ae6e07601fa9df5d:
+      title: Daily Practice of Guru Drakpo
+      parent: Sādhanas
+created_at: '2022-03-01T03:44:35.620536'
+last_modified_at: '2022-03-01T03:44:35.620539'
